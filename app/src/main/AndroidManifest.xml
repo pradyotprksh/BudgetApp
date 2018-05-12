@@ -19,7 +19,7 @@
         <activity android:name=".BudgetLoginScreen" />
         <activity android:name=".HomeActivity" />
         <activity android:name=".AccountSettings" />
-        <activity android:name=".BudgetRegisterActivity"></activity>
+        <activity android:name=".BudgetRegisterActivity" />
     </application>
 
 </manifest>
